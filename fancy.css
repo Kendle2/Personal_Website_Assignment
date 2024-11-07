@@ -7,6 +7,7 @@ div{
 
 a{
   width: 50px;
+  word-wrap: normal;
   word-break: break-all;
   white-space: normal;
 
