@@ -12,9 +12,8 @@ div{
 
 a{
   width: 50px;
-  word-wrap: normal;
-  word-break: break-all;
-  white-space: normal;
+  word-wrap: break-word;
+  
 
   color: green;
   text-align: center;
