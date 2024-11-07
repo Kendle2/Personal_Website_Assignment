@@ -1,10 +1,21 @@
-h1{
-    color: black;
+div{
+    color: green;
     text-align: center;
+    font-size:60px;
+
+}
+
+.myDiv{
+  color: green;
+  text-align: center;
+  font-size:60px;
+
 }
 
 
 p{
   color: red;
-  text-align: center;  
+  text-align: center; 
+  font-family:"Papyrus";
+
 }
