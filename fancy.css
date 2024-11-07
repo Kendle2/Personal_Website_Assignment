@@ -8,6 +8,8 @@ div{
 a{
   width: 50px;
   word-break: break-all;
+  white-space: normal;
+
   color: green;
   text-align: center;
   font-size:20px;
