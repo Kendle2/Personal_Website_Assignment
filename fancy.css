@@ -1,21 +1,38 @@
 div{
-    color: green;
-    text-align: center;
-    font-size:60px;
-
-}
-
-a{
-  color: green;
+  
   text-align: center;
   font-size:60px;
 
 }
 
+a{
+  width: 200px;
+  word-wrap: break-word;
+color: green;
+text-align: center;
+font-size:20px;
+
+}
+b{
+  width: 200px;
+  word-wrap: break-word;
+  color: blue;
+  text-align: center;
+  font-size:20px; 
+}
+K{
+  width:200px;
+  word-wrap: break-word;
+  color: black;
+  text-align: center;
+  font-size:20px; 
+}
+
 
 p{
-  background-color: white;
-  text-align: center; 
-  font-family:"Papyrus";
+color: black;
+background-color: white;
+text-align: center; 
+font-family:"Papyrus";
 
 }
