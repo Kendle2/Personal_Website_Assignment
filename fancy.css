@@ -7,7 +7,7 @@ div{
 
 a{
   width: 50px;
-  word-wrap: break-word;
+  word-break: break-all;
   color: green;
   text-align: center;
   font-size:20px;
